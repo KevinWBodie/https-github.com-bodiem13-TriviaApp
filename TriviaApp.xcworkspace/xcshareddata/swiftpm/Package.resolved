@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TriviaUtilityPackage",
+        "repositoryURL": "https://github.com/KevinWBodie/TriviaUtilityPackage.git",
+        "state": {
+          "branch": null,
+          "revision": "e61112aa83cae59aac69d7be32be5d0f962b2298",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
